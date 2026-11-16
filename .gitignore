@@ -64,3 +64,4 @@ ui-debug.log
 service-account*.json
 *-service-account*.json
 *.pem
+functions/.secret.local
